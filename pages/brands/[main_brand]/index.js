@@ -15,7 +15,7 @@ const Brand = () => {
             ratingCount: '26',
             tags: [{ id: '1', name: "#Dual Sim" }, { id: '2', name: "#LTE" }, { id: '3', name: "#4G" }, { id: '4', name: "#64 GB" }, { id: '5', name: "#4 GB RAM" }],
             stores: '10',
-            url: ''
+            url: '/category/electronics/laptops/Samsung Galaxy M02s 64GB'
 
         },
         {
@@ -29,7 +29,7 @@ const Brand = () => {
             tags: [{ id: '1', name: "#Dual Sim" }, { id: '2', name: "#LTE" }, { id: '3', name: "#4G" }, { id: '4', name: "#128 GB" }, { id: '5', name: "#8 GB RAM" }],
             ratingCount: '23',
             stores: '6',
-            url: ''
+            url: '/category/electronics/laptops/Samsung Galaxy M31 128GB'
 
         },
         {
@@ -43,7 +43,7 @@ const Brand = () => {
             tags: [{ id: '1', name: "#Dual Sim" }, { id: '2', name: "#LTE" }, { id: '3', name: "#4G" }, { id: '4', name: "#64 GB" }, { id: '5', name: "#4 GB RAM" }],
             ratingCount: '10',
             stores: '8',
-            url: ''
+            url: '/category/electronics/laptops/Samsung Galaxy M21'
 
         },
         {
@@ -57,7 +57,7 @@ const Brand = () => {
             tags: [{ id: '1', name: "#Dual Sim" }, { id: '2', name: "#LTE" }, { id: '3', name: "#4G" }, { id: '4', name: "#64 GB" }, { id: '5', name: "#8 GB RAM" }],
             ratingCount: '21',
             stores: '15',
-            url: ''
+            url: '/category/electronics/laptops/Samsung Galaxy A21s 64GB'
 
         }, {
             id: '1',
@@ -70,7 +70,7 @@ const Brand = () => {
             ratingCount: '26',
             tags: [{ id: '1', name: "#Dual Sim" }, { id: '2', name: "#LTE" }, { id: '3', name: "#4G" }, { id: '4', name: "#64 GB" }, { id: '5', name: "#4 GB RAM" }],
             stores: '10',
-            url: ''
+            url: '/category/electronics/laptops/Samsung Galaxy M02s 64GB'
 
         },
         {
@@ -84,7 +84,7 @@ const Brand = () => {
             tags: [{ id: '1', name: "#Dual Sim" }, { id: '2', name: "#LTE" }, { id: '3', name: "#4G" }, { id: '4', name: "#128 GB" }, { id: '5', name: "#8 GB RAM" }],
             ratingCount: '23',
             stores: '6',
-            url: ''
+            url: '/category/electronics/laptops/Samsung Galaxy M31 128GB'
 
         },
         {
@@ -98,7 +98,7 @@ const Brand = () => {
             tags: [{ id: '1', name: "#Dual Sim" }, { id: '2', name: "#LTE" }, { id: '3', name: "#4G" }, { id: '4', name: "#64 GB" }, { id: '5', name: "#4 GB RAM" }],
             ratingCount: '10',
             stores: '8',
-            url: ''
+            url: '/category/electronics/laptops/Samsung Galaxy M21'
 
         },
         {
@@ -112,7 +112,7 @@ const Brand = () => {
             tags: [{ id: '1', name: "#Dual Sim" }, { id: '2', name: "#LTE" }, { id: '3', name: "#4G" }, { id: '4', name: "#64 GB" }, { id: '5', name: "#8 GB RAM" }],
             ratingCount: '21',
             stores: '15',
-            url: ''
+            url: '/category/electronics/laptops/Samsung Galaxy A21s 64GB'
 
         }, {
             id: '1',
@@ -125,7 +125,7 @@ const Brand = () => {
             ratingCount: '26',
             tags: [{ id: '1', name: "#Dual Sim" }, { id: '2', name: "#LTE" }, { id: '3', name: "#4G" }, { id: '4', name: "#64 GB" }, { id: '5', name: "#4 GB RAM" }],
             stores: '10',
-            url: ''
+            url: '/category/electronics/laptops/Samsung Galaxy M02s 64GB'
 
         },
         {
@@ -139,7 +139,7 @@ const Brand = () => {
             tags: [{ id: '1', name: "#Dual Sim" }, { id: '2', name: "#LTE" }, { id: '3', name: "#4G" }, { id: '4', name: "#128 GB" }, { id: '5', name: "#8 GB RAM" }],
             ratingCount: '23',
             stores: '6',
-            url: ''
+            url: '/category/electronics/laptops/Samsung Galaxy M31 128GB'
 
         },
         {
@@ -153,7 +153,7 @@ const Brand = () => {
             tags: [{ id: '1', name: "#Dual Sim" }, { id: '2', name: "#LTE" }, { id: '3', name: "#4G" }, { id: '4', name: "#64 GB" }, { id: '5', name: "#4 GB RAM" }],
             ratingCount: '10',
             stores: '8',
-            url: ''
+            url: '/category/electronics/laptops/Samsung Galaxy M21'
 
         },
         {
@@ -167,7 +167,7 @@ const Brand = () => {
             tags: [{ id: '1', name: "#Dual Sim" }, { id: '2', name: "#LTE" }, { id: '3', name: "#4G" }, { id: '4', name: "#64 GB" }, { id: '5', name: "#8 GB RAM" }],
             ratingCount: '21',
             stores: '15',
-            url: ''
+            url: '/category/electronics/laptops/Samsung Galaxy A21s 64GB'
 
         }
     ]
