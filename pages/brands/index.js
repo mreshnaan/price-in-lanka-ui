@@ -142,12 +142,8 @@ const brands = () => {
                 </div> */}
 
             <div className="w-full flex p-2 flex-wrap justify-center items-center focus:none">
-                <Cards items={brand} />
+                 <Cards items={brand} showvisbility={'none'} />
             </div>
-
-            <Singleproduct items={mobile} />
-            <Comparestores items={mutistores} />
-
 
         </div>
     );
