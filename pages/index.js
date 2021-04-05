@@ -77,32 +77,36 @@ export default function Home() {
           id: '32',
           name: "Laptops",
           description: 'Don St, Brooklyn, New York',
-          image: "http://priceinlanka.com/images/CategoriesImages/Laptops.jpg",
-          tags: [{ name: "#Elecricity" }]
+          image: "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_multiple_products/laptop/new-category-page-notebook-alienware-m15-r3-m17-r3-800x620.png?fmt=png-alpha&amp;wid=800&amp;hei=620",
+          tags: [{ name: "#Elecricity" }],
+          url: '/category/electronics/laptops'
 
         },
         {
           id: '33',
           name: "Television",
           description: 'Don St, Brooklyn, New York',
-          image: "http://priceinlanka.com/images/CategoriesImages/Television.jpg",
-          tags: [{ name: "#Elecricity" }]
+          image: "https://p.globalsources.com/IMAGES/PDT/BIG/947/B1144160947.jpg",
+          tags: [{ name: "#Elecricity" }],
+          url: 'category/electronics/television'
 
         },
         {
           id: '34',
           name: "Tablets",
           description: 'Don St, Brooklyn, New York',
-          image: "http://priceinlanka.com/images/CategoriesImages/Tablets.jpg",
-          tags: [{ name: "#Elecricity" }]
+          image: "https://baseo.co.uk/wp-content/uploads/2019/08/Amazon-Kindle-Fire-HD-10.jpg",
+          tags: [{ name: "#Elecricity" }],
+          url: 'category/electronics/tablet'
 
         },
         {
           id: '35',
           name: "Mobile",
           description: 'Don St, Brooklyn, New York',
-          image: "http://priceinlanka.com/images/CategoriesImages/Mobile.png",
-          tags: [{ id: '1', name: "#Elecricity" }]
+          image: "https://qph.fs.quoracdn.net/main-qimg-968c26fb806e35f0f0477328db6f72d8",
+          tags: [{ name: "#Elecricity" }],
+          url: 'category/electronics/mobile'
 
         },
       ],
