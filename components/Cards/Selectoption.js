@@ -3,10 +3,10 @@ import makeAnimated from 'react-select/animated';
 
 
 
-const Selectoption = ({ items }) => {
+const Selectoption = ({ items,styles }) => {
 
     const option = items;
-    const styles = {}
+ 
 
     const animatedComponents = makeAnimated();
 
@@ -16,8 +16,8 @@ const Selectoption = ({ items }) => {
             <Select
                 closeMenuOnSelect={false}
                 components={animatedComponents}
-                styles={styles}
-                // defaultValue={[colourOptions[4], colourOptions[5]]}
+                className="w-56 p-1"
+                // defaultValue={[colourOptions[4], colourOpntions[5]]}
                 isMulti
                 options={option}
             />

@@ -1,7 +1,8 @@
-import { useState } from "react"
-import Slider from '../components/Cards/Slider'
+import SearchFilter from '../components/Cards/searchFilter'
 import Banner from '../components/Cards/Banner'
 import Cards from '../components/Cards/category/Cards'
+import Selectoption from '../components/Cards/Selectoption'
+import Searchbar from '../components/Cards/Seachbar'
 
 
 
@@ -118,6 +119,18 @@ export default function Home() {
     <div>
 
       <Banner items={banner} />
+      <div className="w-100% flex justify-center items-center h-24">
+        <div className="flex justify-center items-center w-5/6 p-5 ">
+          <Selectoption />
+          <Selectoption />
+          <Selectoption />
+
+          <SearchFilter />
+          {/* <Searchbar /> */}
+
+        </div>
+      </div>
+
       <Cards items={category} />
 
 
